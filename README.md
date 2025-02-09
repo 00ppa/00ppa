@@ -1,6 +1,11 @@
 # 💫 About Me:
-<br><br>- 🔭 I’m currently working on: **Jarvis AI**<br>- 🌱 I’m learning: **Kernel development** (low-level programming), **C language**, and **Assembly**<br>- 👯 I’m looking to collaborate on: **Cybersecurity projects**, **AI projects**, and **Low-level projects like kernel development**<br>- 💬 Ask me about: **AI, C, Python**, and a bit of <br>**Assembly**<br>
+<br><br>
 
+🔭 I’m currently working on: Jarvis AI, DAE (a privacy-focused browser like Tor), and diving into Cloud Security & Networking <br>
+🌱 I’m learning: Kernel Development (low-level programming), C Language, Assembly, Ethical Hacking, and Cloud Platforms like Azure & AWS <br>
+👯 I’m looking to collaborate on: Cybersecurity Projects, AI Projects, Cloud-based Solutions, and Low-level Projects like Kernel Development <br>
+💬 Ask me about: AI, C, Python, a bit of Assembly, and Cloud Technologies (Azure & AWS)
+<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/farhan_shiyad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farhan-shiyad-a2059b293) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/7DnPJ31GY) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Farhan-1299) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27846088) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hey__geniee) 
