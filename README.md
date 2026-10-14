@@ -28,11 +28,11 @@ I’m Farhan — an engineering student, product builder, and COO at **Outbrix**
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=00ppa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats for 00ppa" />
-  <img height="165" src="https://streak-stats.demolab.com?user=00ppa&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for 00ppa" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=00ppa&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for 00ppa" />
 </p>
 
 <p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=00ppa&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph for 00ppa" />
+  <a href="https://github.com/00ppa">View GitHub profile</a>
 </p>
 
 <div align="center">
